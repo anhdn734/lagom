@@ -3,3 +3,31 @@ highlighter: rouge
 url: http://example.com
 lsi: false
 exclude: [LICENSE, CNAME, README.md, .gitignore, Gemfile, Gemfile.lock]
+
+themee:
+  # Color for top bar, links, etc
+  highlight_color: '#503fb1'
+
+  # Profile links on the left sidebar, leave blank to ignore
+  social:
+    github: anhdn734
+    #bitbucket: philipj
+    # hacker_news: swanson
+    #stackexchange: 348619
+    #stackoverflow:
+    #twitter: 
+    #facebook: 
+    #tumblr: animalygifs
+    #linkedin: 
+    #gplus: 110552447039675960964
+
+  # "Hi, I'm _______"
+  name: Anh N. Doan
+  email: anhdoan621@gmail.com
+  tagline: "full-stack developer"
+
+  # Google Analytics key, leave blank to ignore
+  #google_analytics_key: 
+
+  # Toggle "Postings are my own" disclaimer in footer
+  show_disclaimer: true
